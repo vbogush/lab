@@ -17,10 +17,6 @@ spec:
       attributes:
         id:
         - dn
-        email:
-        - mail
-        name:
-        - cn
         preferredUsername:
         - uid
       bindDN: "uid=admin,cn=users,cn=accounts,dc=ocp4,dc=example,dc=com"
